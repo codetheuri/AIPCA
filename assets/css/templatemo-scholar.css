@@ -120,7 +120,7 @@ body {
 }
 
 ::selection {
-  background: #7a6ad8;
+  background: blue;
   color: #fff;
 }
 
@@ -676,7 +676,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/thika.jpeg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -705,7 +705,7 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
+  background-color: #2f0cf5;
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
@@ -740,7 +740,7 @@ Banner Style
 
 .main-banner .item .buttons .main-button a {
   font-size: 14px;
-  color: #7a6ad8;
+  color: #300cf8;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -751,7 +751,7 @@ Banner Style
 }
 
 .main-banner .item .buttons .icon-button i {
-  color: #7a6ad8;
+  color: #3206f4;
   background-color: #fff;
   display: inline-block;
   height: 50px;
