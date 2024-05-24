@@ -294,7 +294,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #7a6ad8 !important;
+  background-color: #2e0af9 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
@@ -676,7 +676,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/thika.jpeg);
+  background-image: url(../images/banner-bg.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
